@@ -5,7 +5,8 @@
 
 - 😄 Pronouns: She/Her
 - 💻 3rd year CS undergrad
-- 🤝 Looking to collaborate on Front End Web Development
+- 📖 Persuing Diploma in German Language
+- 🤝 Looking to collaborate on Front End Web Development and Android Development
 - 🤠 Open Source Enthusiast 
 - ⚡ Fun fact: I love to play Guitar! 🎸
 
