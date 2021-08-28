@@ -8,7 +8,7 @@
 - 🤝 Looking to collaborate on Front End Web Development
 - 🤠 Open Source Enthusiast 
 - ⚡ Fun fact: I love to play Guitar! 🎸
-<br>
+
 <h3 style="left: 50px; position:relative;">Connect with me:</h3> 
 
 <a href="https://twitter.com/Akansha2001"><img align="left" title="Instagram - Akansha Jain" alt="Instagram" height="28px" src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
