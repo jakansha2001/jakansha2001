@@ -3,7 +3,7 @@
 
 <!--### Hi there 👋
 ### 😄 Pronouns: -->
-<b> About Me: </b>
+<h3 style="left: 50px; position:relative;">About me:</h3>
 
 - 😄 Pronouns: She/Her
 - 💻 3rd year CS undergrad
