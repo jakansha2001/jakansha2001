@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi there👋 I'm Akansha Jain </h1>
+<!--### Hi there 👋
+### 😄 Pronouns: -->
+<b> About Me: </b>
+- 😄 Pronouns: She/Her
+- 💻 3nd year CS undergrad
+- 🤝 Looking to collaborate on Front End Web Development 
+- ⚡ Fun fact: I love to play Guitar! 🎸
 
 <!--
 **jakansha2001/jakansha2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
