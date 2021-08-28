@@ -1,4 +1,4 @@
-<h1 align="center">Hey there👋 I'm Akansha Jain </h1>
+<h1 align="center">Hey there👋! I'm Akansha Jain </h1>
 <!--### Hi there 👋
 ### 😄 Pronouns: -->
 <b> About Me: </b>
