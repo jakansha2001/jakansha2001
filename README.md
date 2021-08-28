@@ -8,7 +8,6 @@
 - 🤝 Looking to collaborate on Front End Web Development
 - 🤠 Open Source Enthusiast 
 - ⚡ Fun fact: I love to play Guitar! 🎸
-
 <br>
 <h3 style="left: 50px; position:relative;">Connect with me:</h3> 
 
