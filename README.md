@@ -1,4 +1,6 @@
 <h1 align="center">Hey there👋! I'm Akansha Jain </h1>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b761185acf68a17448f8c961ce7aeb953579021c560b9&rid=giphy.gif&ct=g" width="45%" height="70%" style="margin:0 50px;"> 
+
 <!--### Hi there 👋
 ### 😄 Pronouns: -->
 <b> About Me: </b>
@@ -8,7 +10,8 @@
 - 📖 Persuing Diploma in German Language
 - 🤝 Looking to collaborate on Front End Web Development and Android Development
 - 🤠 Open Source Enthusiast 
-- ⚡ Fun fact: I love to play Guitar! 🎸
+- ⚡ Fun fact: I like to play Guitar! 🎸
+- 🐕 PS : Cats are cute but I am more of a DOG person 😉
 
 <h3 style="left: 50px; position:relative;">Connect with me:</h3> 
 
