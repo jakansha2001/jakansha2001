@@ -2,9 +2,11 @@
 <!--### Hi there 👋
 ### 😄 Pronouns: -->
 <b> About Me: </b>
+
 - 😄 Pronouns: She/Her
-- 💻 3nd year CS undergrad
-- 🤝 Looking to collaborate on Front End Web Development 
+- 💻 3rd year CS undergrad
+- 🤝 Looking to collaborate on Front End Web Development
+- 🤠 Open Source Enthusiast 
 - ⚡ Fun fact: I love to play Guitar! 🎸
 
 <!--
