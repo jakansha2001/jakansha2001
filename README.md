@@ -22,7 +22,8 @@
 <a href="mailto:jakansha2001@gmail.com"><img align="left" title="Mail - Akansha Jain" alt="Mail" height="28px" src="https://image.flaticon.com/icons/png/512/281/281769.png" /></a>
 
 <br>
-
+<br>
+![Visitor Count](https://profile-counter.glitch.me/jakansha2001/count.svg)
 <!--
 **jakansha2001/jakansha2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
