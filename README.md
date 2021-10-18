@@ -23,7 +23,7 @@
 
 <br>
 <br>
-![Visitor Count](https://profile-counter.glitch.me/jakansha2001/count.svg)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jakansha2001.jakansha2001)
 <!--
 **jakansha2001/jakansha2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
