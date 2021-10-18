@@ -23,7 +23,8 @@
 
 <br>
 <br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jakansha2001.jakansha2001)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jakansha2001&label=visitors&color=blue&style=flat" alt="jakansha2001" /> </p>
+
 <!--
 **jakansha2001/jakansha2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
