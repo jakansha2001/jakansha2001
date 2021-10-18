@@ -9,9 +9,11 @@
 - 💻 3rd year CS undergrad
 - 📖 Persuing Diploma in German Language
 - 🤝 Looking to collaborate on Front End Web Development and Android Development
-- ⭐Google Developer Student Clubs Lead
-- 💥Microsoft Learn Student Ambassador
+- ⭐ Google Developer Student Clubs Lead
+- 💥 Microsoft Learn Student Ambassador
+- ☁  Google Cloud Facilitator 2021
 - 🤠 Open Source Enthusiast 
+- 👩‍🎨 UI/UX Designer
 - ⚡ Fun fact: I like to play Guitar! 🎸
 - 🐕 PS : Cats are cute but I am more of a DOG person 😉
 
