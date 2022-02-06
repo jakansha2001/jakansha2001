@@ -20,7 +20,7 @@
 
 <h3 style="left: 50px; position:relative;">Connect with me:</h3> 
 
-<a href="https://twitter.com/Akansha2001"><img align="left" title="Twitter - Akansha Jain" alt="Instagram" height="28px" src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
+<a href="https://twitter.com/Akansha2001"><img src="https://img.shields.io/twitter/follow/Akansha2001?label=Twitter&logo=twitter&style=for-the-badge&color=blue" align="left" title="Twitter - Akansha Jain" alt="Twitter" height="28px" src="https://img.icons8.com/fluency/48/000000/twitter.png"/></a>
 <a href="https://www.linkedin.com/in/akansha-jain-2001/"><img align="left" title="LinkedIn - Akansha Jain" alt="LinkedIn" height="28px" src="https://image.flaticon.com/icons/png/512/174/174857.png" /></a>
 <a href="mailto:jakansha2001@gmail.com"><img align="left" title="Mail - Akansha Jain" alt="Mail" height="28px" src="https://image.flaticon.com/icons/png/512/281/281769.png" /></a>
 
