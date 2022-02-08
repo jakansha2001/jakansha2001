@@ -13,7 +13,7 @@
 - 📖 Persuing Diploma in German Language
 - 🤝 Looking to collaborate on Android Development
 - ⭐ Google Developer Student Clubs Lead @GDSC SRCASW
-- 💥 Gold Microsoft Learn Student Ambassador
+- 🪙 Gold Microsoft Learn Student Ambassador
 - ☁  Google Cloud Facilitator 2021
 - 📱 Android Study Jams Facilitator 2021-22
 - 🤠 Open Source Enthusiast 
