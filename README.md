@@ -11,7 +11,8 @@
 - 😄 Pronouns: She/Her
 - 💻 3rd year CS undergrad
 - 📖 Persuing Diploma in German Language
-
+- 🤝 Looking to collaborate on Android Development
+- ⭐ Google Developer Student Clubs Lead @GDSC SRCASW
 - 🪙 Gold Microsoft Learn Student Ambassador
 - 💙 Flutter Festival Facilitator @GDSC SRCASW
 - ☁  Google Cloud Facilitator 2021
