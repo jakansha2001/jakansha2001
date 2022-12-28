@@ -9,13 +9,13 @@
 <h3 style="left: 50px; position:relative;">About me:</h3>
 
 - 😄 Pronouns: She/Her
-- 💻 Application Developer Intern (Flutter)
+- 💻 Flutter Developer
 - 📖 Diploma in German Language
-- 🤝 Looking to collaborate on Android Development
+- 🤝 Looking to collaborate on Flutter 
 - ⭐ Google Developer Student Clubs Lead' 21 @GDSC SRCASW
-- 🪙 Gold Microsoft Learn Student Ambassador
+- 🏆 Former Gold Microsoft Learn Student Ambassador
 - 💙 Flutter Festival Facilitator @GDSC SRCASW
-- ☁  Google Cloud Facilitator 2021
+- ☁  Google Cloud Facilitator' 21
 - 📱 Android Study Jams Facilitator 2021-22
 - 🤠 Open Source Enthusiast 
 - 👩‍🎨 UI/UX Designer
