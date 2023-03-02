@@ -33,7 +33,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=jakansha2001&theme=radical&no-frame=false&no-bg=false&margin-w=4)<br><br>
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Akansha2001)](https://github.com/VishwaGauravIn/github-twitter-card-embed)<br><br>
+[![](https://gtce.itsvg.in/api?username=Akansha2001)](https://twitter.com/akansha2001/)<br><br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)<br><br>
