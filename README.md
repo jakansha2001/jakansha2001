@@ -1,5 +1,19 @@
+<h1 align="center">Hey there👋! I'm Akansha Jain </h1>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=790b761185acf68a17448f8c961ce7aeb953579021c560b9&rid=giphy.gif&ct=g" width="45%" height="70%" style="margin:0 50px;">
+
 # 💫 About Me:
-😄 Pronouns: She/Her<br>💻 Flutter Developer<br>📖 Diploma in German Language<br>🤝 Looking to collaborate on Flutter<br>⭐ Google Developer Student Clubs Lead' 21 @GDSC SRCASW<br>🏆 Former Gold Microsoft Learn Student Ambassador<br>💙 Flutter Festival Facilitator @GDSC SRCASW<br>📱 Android Study Jams Facilitator 2021-22<br>🤠 Open Source Enthusiast<br>👩‍🎨 UI/UX Designer<br>⚡ Fun fact: I like to play Guitar! 🎸<br>🐕 PS : Cats are cute but I am more of a DOG person 😉
+- 😄 Pronouns: She/Her
+- 💻 Flutter Developer
+- 📖 Diploma in German Language
+- 🤝 Looking to collaborate on Flutter
+- ⭐ Google Developer Student Clubs Lead' 21 @GDSC SRCASW
+- 🏆 Former Gold Microsoft Learn Student Ambassador
+- 💙 Flutter Festival Facilitator @GDSC SRCASW
+- 📱 Android Study Jams Facilitator 2021-22
+- 🤠 Open Source Enthusiast
+- 👩‍🎨 UI/UX Designer
+- ⚡ Fun fact: I like to play Guitar! 🎸
+- 🐕 PS : Cats are cute but I am more of a DOG person 😉
 
 
 ## 🌐 Socials:
