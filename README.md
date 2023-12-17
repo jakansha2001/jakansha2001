@@ -4,6 +4,7 @@
 # 💫 About Me:
 - 😄 Pronouns: She/Her
 - 💻 Flutter Developer
+- 👩🏻‍💻 Google Women Techmakers Ambassador
 - 📖 Diploma in German Language
 - 🤝 Looking to collaborate on Flutter
 - ⭐ Google Developer Student Clubs Lead' 21 @GDSC SRCASW
